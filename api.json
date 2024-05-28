@@ -1,0 +1,29 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "CP2 Under Development",
+      "message": "Cockpit v2 is under development.",
+      "timestamp": "2023-07-12T15:30:00Z",
+      "icon": "bi-code-slash",
+      "url": "https://cockpit.lol/"
+      
+    },
+    {
+      "id": 2,
+      "title": "Contact @ianwoneill",
+      "message": "Contact @ianwoneill for pre-orders.",
+      "timestamp": "2023-07-11T09:15:00Z",
+      "icon": "bi-telegram",
+      "url": "https://t.me/ianwoneill"
+    },
+    {
+      "id": 3,
+      "title": "Buy me a Coffee",
+      "message": "Buy me a drink: Cashapp £ianwoneill",
+      "timestamp": "2023-07-10T18:45:00Z",
+      "icon": "bi-cup-hot-fill",
+      "url": "https://cash.app/ianwoneill"
+    }
+  ]
+}
